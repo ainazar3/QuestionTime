@@ -28,7 +28,7 @@
 </template>
 
 <script>
-import { apiService } from "../common/api.service";
+import { apiService } from "@/common/api.service";
 export default {
   name: "home",
   data() {
